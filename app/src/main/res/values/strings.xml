@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Light Sensors</string>
+    <string name="app_is_running">App is running</string>
 </resources>
